@@ -1,5 +1,6 @@
 | Datum      | Beginn | Ende   | Kategorie | Meldung                         |
 |------------|--------|--------|-----------|---------------------------------|
+| 28.03.2022 | 05:45  | 20:00  | Störung   | Aufgrund von technischen Problemen entfällt der komplette Fährverkehr |
 | 21.03.2022 | 09:00  | 13:00  | Sonstiges | Tauchmaßnahmen im Bereich der Fähranleger durch die Polizei |
 | 18.03.2022 | 18:15  | 20:15  | Personal  | Personalausfall wegen Krankheit |
 | 18.03.2022 | 09:15  | 13:00  | Personal  | Personalausfall wegen Krankheit |
