@@ -1,11 +1,12 @@
-| Datum      | Beginn | Ende   | Kategorie | Meldung                         |
-|------------|--------|--------|-----------|---------------------------------|
-| 31.03.2022 | 13:30  |        | Störung   | Fahrtausfall, innerbetriebliche Störung |
-| 31.03.2022 | 13:10  |        | Störung   | Fahrtausfall, innerbetriebliche Störung |
+| Datum      | Beginn | Ende   | Kategorie | Meldung                                                               |
+|------------|--------|--------|-----------|-----------------------------------------------------------------------|
+| 04.04.2022 | 10:30  | 20:15  | Wetter    | Starker Wind                                                          |
+| 31.03.2022 | 13:30  |        | Störung   | Fahrtausfall, innerbetriebliche Störung                               |
+| 31.03.2022 | 13:10  |        | Störung   | Fahrtausfall, innerbetriebliche Störung                               |
 | 30.03.2022 | 13:30  |        | Störung   | Fahrtausfall, innerbetriebliche Störung (vermutlich bzgl. 31.03.2022) |
 | 30.03.2022 | 13:10  |        | Störung   | Fahrtausfall, innerbetriebliche Störung (vermutlich bzgl. 31.03.2022) |
 | 28.03.2022 | 05:45  | 20:00  | Störung   | Aufgrund von technischen Problemen entfällt der komplette Fährverkehr |
-| 21.03.2022 | 09:00  | 13:00  | Sonstiges | Tauchmaßnahmen im Bereich der Fähranleger durch die Polizei |
+| 21.03.2022 | 09:00  | 13:00  | Sonstiges | Tauchmaßnahmen im Bereich der Fähranleger durch die Polizei           |
 | 18.03.2022 | 18:15  | 20:15  | Personal  | Personalausfall wegen Krankheit |
 | 18.03.2022 | 09:15  | 13:00  | Personal  | Personalausfall wegen Krankheit |
 | 17.03.2022 | 18:15  | 20:15  | Personal  | Personalausfall wegen Krankheit |
