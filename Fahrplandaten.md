@@ -10,7 +10,12 @@ Die Daten werden im GTFS Austauschformat zum Herunterladen über einen persönli
 * https://gtfs.org - General Transit Feed Specification
 * https://de.wikipedia.org/wiki/General_Transit_Feed_Specification - Austauschformat für Fahrpläne des ÖPNV
 
-# Daten
+# GTFS Daten
 
 * routes.txt : ID = 64377
 * trips.txt : Rostock Kabutzenhof Fähre / Rostock Gehlsdorf Fähre
+
+# Transitland
+
+* https://www.transit.land/map#12.5/54.09204/12.12915 - Kartenansicht Rostock
+* https://www.transit.land/routes/r-u38eg8-fä2 - Fährverbindung
