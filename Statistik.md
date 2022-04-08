@@ -1,7 +1,8 @@
 | Datum      | Beginn | Ende   | Kategorie | Meldung                                                               |
 |------------|--------|--------|-----------|-----------------------------------------------------------------------|
-| 05.04.2022 | 05:35  | 08:30  | Wetter    | Starker Wind                                                          |
-| 04.04.2022 | 10:30  | 20:15  | Wetter    | Starker Wind                                                          |
+| 08.04.2022 | 10:52  | 13:20  | Wetter    | Fahrtausfall, Starker Wind                                            |
+| 05.04.2022 | 05:35  | 08:30  | Wetter    | Fahrtausfall, Starker Wind                                            |
+| 04.04.2022 | 10:30  | 20:15  | Wetter    | Fahrtausfall, Starker Wind                                            |
 | 31.03.2022 | 13:30  |        | Störung   | Fahrtausfall, innerbetriebliche Störung                               |
 | 31.03.2022 | 13:10  |        | Störung   | Fahrtausfall, innerbetriebliche Störung                               |
 | 30.03.2022 | 13:30  |        | Störung   | Fahrtausfall, innerbetriebliche Störung (vermutlich bzgl. 31.03.2022) |
@@ -51,7 +52,7 @@
 | 20.01.2022 | 06:00  |        | Wetter    | Wind, Strömung                  |
 | 17.01.2022 | 06:00  | 16:00  | Wetter    | Wind                            |
 | 14.01.2022 | 14:00  |        | Störung   | technische Störung, Wind        |
-| 12.01.2022 | 11:00  | 13:00  | Wartung   |	Wartungsarbeiten               |
+| 12.01.2022 | 11:00  | 13:00  | Wartung   | Wartungsarbeiten                |
 | 10.01.2022 |        | 11:00  | Störung   | technische Störung              |
 | 09.01.2022 |        | 10:00  | Störung   | technische Störung              |
 | 07.01.2022 | 8:00   |        | Störung   | technische Störung              |
