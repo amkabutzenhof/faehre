@@ -12,6 +12,8 @@ Die Daten werden im GTFS Austauschformat zum Herunterladen über einen persönli
 
 # GTFS Daten
 
+https://www.connect-info.net/opendata/
+
 * routes.txt : ID = 64377
 * trips.txt : Rostock Kabutzenhof Fähre / Rostock Gehlsdorf Fähre
 
