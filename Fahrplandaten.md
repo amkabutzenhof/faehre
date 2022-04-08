@@ -16,6 +16,7 @@ https://www.connect-info.net/opendata/
 
 * routes.txt : ID = 64377
 * trips.txt : Rostock Kabutzenhof Fähre / Rostock Gehlsdorf Fähre
+* service_alerts.txt: Enthält derzeit keine Echtzeitdaten zu Verkehrsmeldungen der RSAG.
 
 # Transitland
 
