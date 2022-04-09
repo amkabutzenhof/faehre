@@ -1,6 +1,7 @@
 | Datum      | Beginn | Ende   | Kategorie | Meldung                                                               |
 |------------|--------|--------|-----------|-----------------------------------------------------------------------|
-| 08.04.2022 | 10:52  | 13:20  | Wetter    | Fahrtausfall, Starker Wind                                            |
+| 09.04.2022 | 15:30  |        | Wetter    | Starke Strömung
+| 08.04.2022 | 10:52  | 13:20  | Wetter    | Fahrtausfall, Starker Wind                                            |
 | 05.04.2022 | 05:35  | 08:30  | Wetter    | Fahrtausfall, Starker Wind                                            |
 | 04.04.2022 | 10:30  | 20:15  | Wetter    | Fahrtausfall, Starker Wind                                            |
 | 31.03.2022 | 13:30  |        | Störung   | Fahrtausfall, innerbetriebliche Störung                               |
