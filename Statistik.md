@@ -1,5 +1,6 @@
 | Datum      | Beginn | Ende   | Kategorie | Meldung                                                               |
 |------------|--------|--------|-----------|-----------------------------------------------------------------------|
+| 18.05.2022 | 09:25  | 14:00  | Wartung   | Fahrtausfall, Wartungsarbeiten                                        |
 | 29.04.2022 | 12:40  |        | Wartung   | Fahrtausfall, Wartungsarbeiten                                        |
 | 09.04.2022 | 15:30  |        | Wetter    | Starke Strömung                                                       |
 | 08.04.2022 | 12:30  |        | Wetter    | Starke Strömung                                                       |
