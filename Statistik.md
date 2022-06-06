@@ -1,5 +1,6 @@
 | Datum      | Beginn | Ende   | Kategorie | Meldung                                                               |
 |------------|--------|--------|-----------|-----------------------------------------------------------------------|
+| 27.05.2022 | 12:15  | 12:32  | Wetter    | Fahrtausfall, Wind                                                    |
 | 25.05.2022 | 12:40  | 13:20  | Wartung   | Fahrtausfall, Wartungsarbeiten                                        |
 | 18.05.2022 | 09:25  | 14:00  | Wartung   | Fahrtausfall, Wartungsarbeiten                                        |
 | 29.04.2022 | 12:40  |        | Wartung   | Fahrtausfall, Wartungsarbeiten                                        |
